@@ -1,0 +1,9 @@
+Author: Momir Milanovic
+Project: SaintDi/Stem test
+Date: July 17, 2018
+
+
+Tests created in this project are written in JUnint framework.
+For running this project just extract it form zip file, import in Eclipse and add external libaries java-json.jar and json-simple-1.1.jar
+
+Tests can be run together (by running TestsRun class), or separately.
